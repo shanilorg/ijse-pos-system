@@ -1,6 +1,7 @@
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Shanil Erosh. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
+ * /*@Version v1.0.0*/
  *--------------------------------------------------------------------------------------------*/
 package customerregistrationform;
 
